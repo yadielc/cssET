@@ -4,6 +4,16 @@ body {
 }
 
 header, footer {
-  background: #2B2D42; 
+  background: #2B2D42;
+  
 
+}
+
+.work {
+   background: #EDF2F4;
+
+}
+
+.education {
+   background: #8D99AE;
 }

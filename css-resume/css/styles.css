@@ -8,13 +8,19 @@ a {
 }
 
 a:hover {
-   text-decoration: none; 
+   text-decoration: none;
 
 }
 
 header, footer {
   background: #2B2D42;
   color: #8D99AE;
+
+}
+
+header h1, header h2 {
+  color: #EDF2F4; 
+
 
 }
 

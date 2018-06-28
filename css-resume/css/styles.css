@@ -3,9 +3,13 @@ body {
 
 }
 
+a {
+   color: #EF233C; 
+}
+
 header, footer {
   background: #2B2D42;
-  
+  color: #8D99AE;
 
 }
 

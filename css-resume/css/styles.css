@@ -4,7 +4,12 @@ body {
 }
 
 a {
-   color: #EF233C; 
+   color: #EF233C;
+}
+
+a:hover {
+   text-decoration: none; 
+
 }
 
 header, footer {

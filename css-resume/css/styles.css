@@ -28,11 +28,9 @@ a:hover {
 .content-wrap{
   max-width: 950px;
   margin 0 auto;
+  padding: 50px; 
 }
 
-h2, p {
-   margin: 0; 
-}
 
 header, footer {
   background: #2B2D42;

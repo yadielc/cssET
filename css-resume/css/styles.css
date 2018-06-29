@@ -6,12 +6,12 @@ font-family: 'Open Sans', sans-serif;
 
 h1, h2{
    font-family: 'Caveat', cursive;
-
+   font-weight: 400; 
 
 }
 
 h2 {
- font-size: 40px; 
+ font-size: 40px;
 }
 
 a {

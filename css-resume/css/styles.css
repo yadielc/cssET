@@ -4,6 +4,16 @@ font-family: 'Open Sans', sans-serif;
 
 }
 
+h1, h2{
+   font-family: 'Caveat', cursive;
+
+
+}
+
+h2 {
+ font-size: 30px; 
+}
+
 a {
    color: #EF233C;
 }

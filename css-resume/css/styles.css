@@ -39,7 +39,7 @@ a:hover {
 }
 
 .col-wide {
-   width: 70%; 
+   width: 70%;
 }
 
 /* Header and Footer*/
@@ -51,9 +51,9 @@ header, footer {
 
 /* header*/
 .profile-img{
-  width: 300px;
+
   border-radius: 50%;
-  float: left;
+  
 
 }
 header h1, header h2 {

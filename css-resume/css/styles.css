@@ -47,6 +47,14 @@ header h1, header h2 {
 
 }
 
+/*footer*/
+
+footer {
+  text-align: center; 
+}
+
+/* Work Experience
+----------------*/
 .work {
    background: #EDF2F4;
 

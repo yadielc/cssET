@@ -53,6 +53,12 @@ footer {
 
 }
 
+.contact-inf a {
+  background: white;
+  margin: 10px; 
+
+}
+
 /* Work Experience
 ----------------*/
 .work {

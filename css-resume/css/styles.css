@@ -36,11 +36,13 @@ a:hover {
 
 .col-narrow {
   width: 30%;
-  float: left; 
+  float: left;
 }
 
 .col-wide {
    width: 70%;
+   float: left;
+   padding-left: 20px; 
 }
 
 /* Header and Footer*/

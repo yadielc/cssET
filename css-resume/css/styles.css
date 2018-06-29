@@ -1,3 +1,5 @@
+
+
 body {
 
 font-family: 'Open Sans', sans-serif;
@@ -6,7 +8,7 @@ font-family: 'Open Sans', sans-serif;
 
 h1, h2{
    font-family: 'Caveat', cursive;
-   font-weight: 400; 
+   font-weight: 400;
 
 }
 
@@ -21,6 +23,11 @@ a {
 a:hover {
    text-decoration: none;
 
+}
+
+.content-wrap{
+  width: 950px;
+  margin 0 auto;
 }
 
 header, footer {

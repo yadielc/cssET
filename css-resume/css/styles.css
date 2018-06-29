@@ -31,7 +31,15 @@ a:hover {
   max-width: 950px;
   margin: 0 auto;
   padding: 50px;
-  overflow: auto; 
+  overflow: auto;
+}
+
+.col-narrow {
+  width: 30%;
+}
+
+.col-wide {
+   width: 70%; 
 }
 
 /* Header and Footer*/

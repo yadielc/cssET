@@ -172,5 +172,16 @@ p + h3 {
      float: left;
      padding-left: 20px;
   }
+}
+
+@media (max-width: 899px){
+  header {
+    text-align: center;
+  }
+
+  .profile-img {
+    width: 200px;
+
+  }
 
 }

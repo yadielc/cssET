@@ -79,7 +79,7 @@ header, footer {
 .download {
    position: absolute;
    bottom: 0;
-   right: 0; 
+   right: 0;
 }
 
 header h1, header h2 {
@@ -102,7 +102,7 @@ footer {
 }
 
 .contact-info a {
-  background: white;
+
   padding: 10px;
   display: inline-block;
 
@@ -147,6 +147,9 @@ h3 ~ p {
 
 .education {
    background: #8D99AE;
+   background: linear-gradient(rgba(255,255, 255, 0.8),
+   rgba(255, 255, 255, 0.5)),
+   url(https://unsplash.it/400/300) no-repeat; 
 }
 
 /*apply this style to any h3 that follows a paragraph tag*/

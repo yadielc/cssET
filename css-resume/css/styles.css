@@ -162,6 +162,15 @@ p + h3 {
 /* Media Queries */
 
 @media (min-width: 900px){
+  .col-narrow {
+    width: 30%;
+    float: left;
+  }
 
-  
+  .col-wide {
+     width: 70%;
+     float: left;
+     padding-left: 20px;
+  }
+
 }

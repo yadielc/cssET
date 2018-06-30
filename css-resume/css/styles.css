@@ -18,6 +18,11 @@ h2 {
  margin-top: 0;
 }
 
+h3 {
+margin: 0;
+
+}
+
 a {
    color: #EF233C;
 }
@@ -37,13 +42,17 @@ a:hover {
 .col-narrow {
   width: 30%;
   float: left;
-  min-height: 175px; 
 }
 
 .col-wide {
    width: 70%;
    float: left;
    padding-left: 20px;
+}
+
+.uppercase {
+ text-transform: uppercase;
+
 }
 
 /* Header and Footer*/
@@ -92,6 +101,27 @@ footer {
 
 }
 
+h3 ~ p {
+ margin: 0;
+}
+
+.job-description {
+  margin-bottom: 25px;
+
+}
+
+.job-description p:first-of-type {
+ margin-top: 0;
+}
+/* Education */
+
 .education {
    background: #8D99AE;
+}
+
+/*apply this style to any h3 that follows a paragraph tag*/
+
+p + h3 {
+  margin-top: 30px; 
+
 }

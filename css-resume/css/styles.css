@@ -147,9 +147,9 @@ h3 ~ p {
 
 .education {
    background: #8D99AE;
-   background: linear-gradient(rgba(255,255, 255, 0.8),
-   rgba(255, 255, 255, 0.5)),
-   url(https://unsplash.it/400/300) no-repeat; 
+   background: linear-gradient(rgba(141,153, 174, 0.8),
+   rgba(141, 153, 174, 0.5)),
+   url(../images/toronto.jpg) no-repeat;
 }
 
 /*apply this style to any h3 that follows a paragraph tag*/

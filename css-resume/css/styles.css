@@ -94,6 +94,9 @@ footer {
 
 }
 
+nav {
+   text-align: center; 
+}
 /* Work Experience
 ----------------*/
 .work {
@@ -122,6 +125,6 @@ h3 ~ p {
 /*apply this style to any h3 that follows a paragraph tag*/
 
 p + h3 {
-  margin-top: 30px; 
+  margin-top: 30px;
 
 }

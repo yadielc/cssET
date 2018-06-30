@@ -87,6 +87,7 @@ header h1, header h2 {
 
 header {
   padding-top: 50px;
+  position: relative; 
 
 }
 

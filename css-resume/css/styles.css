@@ -75,6 +75,13 @@ header, footer {
 .profile-img{
   border-radius: 50%;
 }
+
+.download {
+   position: absolute;
+   bottom: 0;
+   right: 0; 
+}
+
 header h1, header h2 {
   color: #EDF2F4;
   margin: 0;

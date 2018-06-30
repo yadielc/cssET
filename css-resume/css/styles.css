@@ -55,6 +55,13 @@ a:hover {
 
 }
 
+.btn {
+
+  text-decoration: none;
+  background: #EF233C;
+  color: white; 
+}
+
 /* Header and Footer*/
 header, footer {
   background: #2B2D42;
@@ -77,7 +84,7 @@ header h1, header h2 {
 }
 
 header {
-  padding-top: 50px; 
+  padding-top: 50px;
 
 }
 

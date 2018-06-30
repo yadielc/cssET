@@ -59,7 +59,9 @@ a:hover {
 
   text-decoration: none;
   background: #EF233C;
-  color: white; 
+  color: white;
+  padding: 10px;
+  display: inline-block;
 }
 
 /* Header and Footer*/

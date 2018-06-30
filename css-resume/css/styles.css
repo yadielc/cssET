@@ -95,7 +95,14 @@ footer {
 }
 
 nav {
-   text-align: center; 
+   text-align: center;
+}
+
+nav a {
+ display: inline-block;
+ padding: 15px 20px;
+ text-decoration: none;
+ text-transform: uppercase; 
 }
 /* Work Experience
 ----------------*/
